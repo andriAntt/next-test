@@ -1,0 +1,76 @@
+{
+  "allFilms": [
+    {
+      "id": "13464984",
+      "name": "Fast and furious",
+      "created": "2001",
+      "genres": [
+        "Fantastic",
+        "Action"
+      ],
+      "description": "'The Fast and the Furious' (English: The Fast and the Furious;) is an American media franchise consisting of eleven full-length films, two short films and an animated series released from 2001 to 2023. It is the largest and most profitable franchise of the Universal studio — the total box office of all parts is more than $7 billion[1][2]. The first film, based on Ken Lee's Vibe magazine article, was released in 2001, starting the original tetralogy of illegal street racing films, culminating in Fast and Furious 4 (2009). The franchise moved into heists and espionage with Fast and Furious 5 (2011), followed by five sequels in the genre, the latest of which, Fast and Furious 10, was released on May 19, 2023."
+    },
+    {
+      "id": "1344sdf64984",
+      "name": "Iron Man",
+      "created": "2008",
+      "preview": "https://upload.wikimedia.org/wikipedia/uk/f/fa/%D0%97%D0%B0%D0%BB%D1%96%D0%B7%D0%BD%D0%B0_%D0%BB%D1%8E%D0%B4%D0%B8%D0%BD%D0%B0_%28%D1%84%D1%96%D0%BB%D1%8C%D0%BC%2C_2008%29.jpeg",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "description": "'Iron Man' (English: Iron Man) is an American fantasy superhero film about the hero of Marvel comics Tony Stark and his alter ego - Iron Man. The development of the tape was carried out since 1990 by Universal Studios, 20th Century Fox and New Line Cinema, but the work boiled down only when Marvel Studios got involved. The premiere took place on April 14, 2008 in Sydney. In Ukraine, the film was shown for the first time on April 30.[18][19] At the box office, the film collected 585,133,287 dollars, and sales on DVD in the United States amounted to 162,436,764 dollars against a budget of 140 million dollars."
+    },
+    {
+      "id": "1344sdfsdfss649dfgd84",
+      "name": "The King's Man",
+      "created": "2019",
+      "preview": "https://upload.wikimedia.org/wikipedia/ru/thumb/1/15/The_King%27s_Man_%28poster%29.jpg/306px-The_King%27s_Man_%28poster%29.jpg",
+      "genres": [
+        "Action",
+        "Comedy",
+        "Adventure",
+        "Military",
+        "Crime",
+        "Thriller",
+        "Fantasy"
+      ],
+      "description": "King's Man: The Beginning [7] (English: The King's Man) is a British-American historical thriller directed by Matthew Vaughn, based on the comics 'The Secret Service' by Mark Millar and Dave Gibbons, published at different times by Marvel and Image. The film is a prequel to the Kingsman film series. The release of the film in the United States was planned for November 2019[8], but after several postponements related to the COVID-19 pandemic, the premiere was scheduled for December 22, 2021[9]. In Russia, the film was released on January 13, 2022[10]. The film received mixed reviews from critics."
+    },
+    {
+      "id": "13sdfsdf464984",
+      "name": "Civil War",
+      "created": "2024",
+      "preview": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQt4soTLa7h-48X83bFjppouy5FkCOY5f_fzFAcql0srlwEwUaG",
+      "genres": [
+        "An action film",
+        "A drama film",
+        "Dystopian film"
+      ],
+      "description": "United States, near future. After a political crisis, when the government turns into a dystopian dictatorship and party-extremist squads regularly commit political violence, 19 states declare their independence. The American government decides to suppress the rebellion. The President of the United States orders the use of ground forces and aviation against the rebels. Meanwhile, the military forces of the Texas, California, and Florida Alliance begin to move toward Washington, with the intention of capturing the city by Independence Day, July 4th. A team of journalists is watching the events, and ordinary Americans are trying to survive during the civil war that has engulfed the entire country and is rapidly escalating."
+    },
+    {
+      "id": "1sdfserfdgdf344sdf64984",
+      "name": "The Beekeeper",
+      "created": "2024",
+      "preview": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCTDn-oci4U2XB9CHPlXh9KMID5pXPsG6CrxfOYT_ZfPkEpvXi",
+      "genres": [
+        "Thriller",
+        "Action"
+      ],
+      "description": "Adam Clay, a former secret agent for a secret organization called the Beekeepers, lives on a small farm in Massachusetts owned by an elderly retired teacher, Eloise Parker, where he helps her with the housework and raises bees. One day, a woman falls victim to Internet fraudsters and loses $2 million, prompting her to commit suicide. With the police powerless, Adam takes justice into his own hands, mercilessly killing one by one of the crooks in his bid to get to the top. Meanwhile, FBI agent Verona Parker, daughter of the late Eloise, is determined to stop the bloodshed."
+    },
+    {
+      "id": "1344erfgdfgsdf649dfgd84",
+      "name": "Me, 'Pobeda' and Berlin",
+      "created": "2024",
+      "preview": "https://upload.wikimedia.org/wikipedia/ru/thumb/3/34/%D0%AF%2C_%D0%9F%D0%BE%D0%B1%D1%94%D0%B4%D0%B0_%D1%96_%D0%91%D0%B5%D1%80%D0%BB%D1%96%D0%BD.jpeg/411px-%D0%AF%2C_%D0%9F%D0%BE%D0%B1%D1%94%D0%B4%D0%B0_%D1%96_%D0%91%D0%B5%D1%80%D0%BB%D1%96%D0%BD.jpeg",
+      "genres": [
+        "Film comedy",
+        "Road movie"
+      ],
+      "description": "This is a story about the development of a famous Ukrainian musician who tragically passed away in 2015. Searching for yourself, friendship and the path to a dream, filled with mind-blowing adventures[5]. In the trailer, the trendy attributes of the torn 90s can be seen - solid denim, multi-colored bomber jackets, checkered shirts, long raincoats, glasses and red tights. And, of course, cult music. 90th Three days before the scheduled concert, the novice musician Kuzma goes with his friend Bard to Berlin on the old Pobeda. They say that there is a collector who is ready to exchange the yellow beast for the six hundredth Mers. Kuzma promises his girlfriend Barbara to return home in a new wheelbarrow, and the guys from the group will have time for the performance. However, everything does not go according to plan. Kuzma's prototype was an actor of the Ivano-Frankivsk Academic Regional Musical Drama Theater named after I. Franko Ivan Blinder. His beloved Barbara was embodied on the screen by the actress and singer Maria Stopnyk, the Bard's friend was the colorful actor Vladimir Geva."
+    }
+  ]
+}
